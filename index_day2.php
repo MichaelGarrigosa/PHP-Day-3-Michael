@@ -1,6 +1,9 @@
 <?php
 
-$a = 5;
-echo $a
+function test(){
+echo "Hello";
+}
+
+TEST();
 
 ?>
