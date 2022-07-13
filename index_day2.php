@@ -1,6 +1,6 @@
 <?php
 
 $num = 5;
-settype($num, "string");
+settype($num, "double");
 echo gettype($num); 
 
