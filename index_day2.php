@@ -3,5 +3,5 @@
 
 $age = 32 ;
 $age -= 1; $age = $age -1;
-echo $age
+echo $age;
 //echo 'I am $name $surname and I am $age year old';
